@@ -1,4 +1,6 @@
 # GERA System
+![image](https://github.com/user-attachments/assets/fba7c4a4-dba7-40f7-bcae-a81e68b1b8d6)
+
 
 Sistema Integrado de Gestão Pessoal e Projetos desenvolvido com Next.js, React e TypeScript.
 
