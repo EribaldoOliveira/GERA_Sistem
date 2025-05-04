@@ -1,5 +1,4 @@
 # GERA System
-![image](https://github.com/user-attachments/assets/fba7c4a4-dba7-40f7-bcae-a81e68b1b8d6)
 ![image](https://github.com/user-attachments/assets/cd323895-966c-4d77-936a-10992c4611e7)
 
 
